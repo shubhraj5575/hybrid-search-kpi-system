@@ -1,3 +1,4 @@
+
 # Hybrid Search + KPI Dashboard System
 
 End-to-end search system combining BM25 lexical search with semantic vector search, featuring a real-time KPI dashboard and comprehensive evaluation harness.
@@ -43,18 +44,28 @@ End-to-end search system combining BM25 lexical search with semantic vector sear
 
 ### Prerequisites
 
-- Python 3.11+
+- Python 3.11.15
 - Node.js 16+ (for frontend)
 - 4GB RAM minimum
 - Git
 
+## Demo Video
+
+A short 5–8 minute demonstration showing:
+- system startup using `up.sh`
+- search functionality
+- KPI dashboard
+- evaluation metrics
+- break/fix scenario
+
+Watch the demo here:  
+https://youtu.be/EMRuQkGdV6s?si=UXgXHLCmzC0Ysg0O
+
 ### Run
 
-```bash
-git clone <repo-url>
+git clone https://github.com/shubhraj5575/hybrid-search-kpi-system.git
 cd hybrid-search-kpi-system
 ./up.sh
-```
 
 This single command:
 1. Creates Python virtual environment
