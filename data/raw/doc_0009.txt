@@ -1,0 +1,5 @@
+Title: API Design Best Practices
+Source: Software Engineering
+Date: 2025-04-15T06:52:36.132174
+
+Well-designed APIs are intuitive, consistent, and robust. RESTful APIs use standard HTTP methods and status codes. Request and response schemas should be well-documented and validated. Error messages should be clear and actionable. Versioning enables evolution without breaking existing clients. Rate limiting and authentication protect against abuse. Comprehensive testing ensures reliability.

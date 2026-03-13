@@ -1,0 +1,5 @@
+Title: Security - Part 1 Variant 16
+Source: security_collection
+Date: 2026-02-26T06:52:36.132174
+
+Web security protects applications from attacks. Common vulnerabilities include SQL injection, cross-site scripting (XSS), and cross-site request forgery (CSRF). Input validation prevents malicious data from entering the system. Parameterized queries defend against SQL injection. Content Security Policy mitigates XSS attacks. This variant explores security from a practical perspective with real-world examples. Understanding these concepts is essential for building robust and scalable systems.

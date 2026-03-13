@@ -1,0 +1,5 @@
+Title: Neural Networks Fundamentals
+Source: Deep Learning Guide
+Date: 2025-06-19T06:52:36.132174
+
+Neural networks are computing systems inspired by biological neural networks that constitute animal brains. Such systems learn to perform tasks by considering examples, generally without being programmed with task-specific rules. A neural network consists of layers of interconnected nodes, where each connection can transmit a signal from one node to another. The receiving node processes the signal and signals downstream nodes.

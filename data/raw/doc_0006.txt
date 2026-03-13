@@ -1,0 +1,5 @@
+Title: Hybrid Search Approaches
+Source: Advanced IR
+Date: 2025-09-29T06:52:36.132174
+
+Hybrid search combines multiple retrieval methods to leverage their complementary strengths. A common approach merges lexical search (like BM25) with semantic search (vector similarity). BM25 excels at exact keyword matches and rare term identification, while semantic search captures meaning and handles synonyms. The combination typically outperforms either method alone, especially when properly tuned.

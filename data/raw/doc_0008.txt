@@ -1,0 +1,5 @@
+Title: Database Indexing Strategies
+Source: Database Systems
+Date: 2025-03-24T06:52:36.132174
+
+Database indexing creates data structures to improve the speed of data retrieval operations. Common index types include B-trees for ordered data, hash indexes for equality searches, and inverted indexes for full-text search. The choice of index depends on query patterns, data distribution, and performance requirements. Proper indexing can reduce query time from linear to logarithmic complexity.

@@ -1,0 +1,5 @@
+Title: Natural Language Processing Overview
+Source: NLP Handbook
+Date: 2026-02-10T06:52:36.132174
+
+Natural Language Processing (NLP) is a branch of artificial intelligence that helps computers understand, interpret and manipulate human language. NLP draws from many disciplines, including computer science and computational linguistics, to bridge the gap between human communication and computer understanding. Common NLP tasks include text classification, sentiment analysis, machine translation, and question answering.

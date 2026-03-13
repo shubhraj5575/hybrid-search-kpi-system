@@ -1,0 +1,5 @@
+Title: Security - Part 3 Variant 2
+Source: security_collection
+Date: 2025-09-16T06:52:36.132174
+
+Encryption protects data confidentiality. Symmetric encryption uses the same key for encryption and decryption. Asymmetric encryption uses public and private key pairs. TLS/SSL secures data in transit. At-rest encryption protects stored data. Key management is critical for maintaining security. Perfect forward secrecy limits damage from key compromise. Advanced concepts in security are essential for modern software development. Understanding these concepts is essential for building robust and scalable systems.

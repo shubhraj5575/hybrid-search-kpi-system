@@ -1,0 +1,5 @@
+Title: Evaluation Metrics for Retrieval
+Source: Evaluation Methods
+Date: 2025-11-15T06:52:36.132174
+
+Retrieval system performance is measured using various metrics. Precision measures the fraction of retrieved documents that are relevant. Recall measures the fraction of relevant documents that are retrieved. nDCG (Normalized Discounted Cumulative Gain) accounts for the graded relevance and position of results. Mean Reciprocal Rank (MRR) focuses on the rank of the first relevant result.

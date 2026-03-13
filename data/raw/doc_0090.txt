@@ -1,0 +1,5 @@
+Title: Algorithms - Part 1 Variant 20
+Source: algorithms_collection
+Date: 2026-03-04T06:52:36.132174
+
+Sorting algorithms arrange elements in a specific order. Common algorithms include quicksort (average O(n log n)), mergesort (worst-case O(n log n)), and heapsort. Selection of algorithm depends on data characteristics, stability requirements, and space constraints. In-place algorithms modify the input array, while others require additional memory. Master algorithms with this comprehensive overview and practical insights. Understanding these concepts is essential for building robust and scalable systems.

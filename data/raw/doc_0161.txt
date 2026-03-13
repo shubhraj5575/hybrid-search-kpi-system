@@ -1,0 +1,5 @@
+Title: Data Science - Part 2 Variant 11
+Source: data_science_collection
+Date: 2025-09-18T06:52:36.132174
+
+Supervised learning trains models on labeled data to make predictions. Classification predicts discrete labels, while regression predicts continuous values. Common algorithms include linear regression, logistic regression, decision trees, random forests, and support vector machines. Model selection depends on data characteristics and problem requirements. This variant explores data_science from a practical perspective with real-world examples. Understanding these concepts is essential for building robust and scalable systems.

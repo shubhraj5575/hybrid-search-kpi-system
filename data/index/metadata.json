@@ -1,0 +1,9 @@
+{
+  "corpus_hash": "b4672e0191f9fc67",
+  "num_documents": 310,
+  "embedding_model": "all-MiniLM-L6-v2",
+  "embedding_dimension": 384,
+  "build_timestamp": "2026-03-13T07:08:06.588397",
+  "bm25_dir": "data/index/bm25",
+  "vector_dir": "data/index/vector"
+}

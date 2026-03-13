@@ -1,0 +1,5 @@
+Title: Web Application Architecture
+Source: Web Development
+Date: 2025-10-24T06:52:36.132174
+
+Modern web applications typically follow a three-tier architecture: presentation layer (UI), application layer (business logic), and data layer (storage). The frontend communicates with the backend via APIs, often using JSON over HTTP. Microservices architectures decompose applications into small, independent services. Load balancers distribute traffic, and caching improves performance.

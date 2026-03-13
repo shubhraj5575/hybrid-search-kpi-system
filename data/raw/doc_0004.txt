@@ -1,0 +1,5 @@
+Title: Information Retrieval Systems
+Source: IR Textbook
+Date: 2025-11-02T06:52:36.132174
+
+Information retrieval is the activity of obtaining information system resources that are relevant to an information need from a collection of those resources. Searches can be based on full-text or other content-based indexing. Information retrieval systems became widespread in the late 20th century. Traditional IR systems use techniques like BM25 for ranking documents based on query terms.

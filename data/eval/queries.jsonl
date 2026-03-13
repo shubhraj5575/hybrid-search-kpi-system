@@ -1,0 +1,25 @@
+{"query_id": "q001", "query": "machine learning basics"}
+{"query_id": "q002", "query": "neural networks deep learning"}
+{"query_id": "q003", "query": "natural language processing"}
+{"query_id": "q004", "query": "information retrieval search"}
+{"query_id": "q005", "query": "vector embeddings semantic search"}
+{"query_id": "q006", "query": "hybrid search BM25"}
+{"query_id": "q007", "query": "evaluation metrics nDCG"}
+{"query_id": "q008", "query": "database indexing"}
+{"query_id": "q009", "query": "API design REST"}
+{"query_id": "q010", "query": "web application architecture"}
+{"query_id": "q011", "query": "python programming"}
+{"query_id": "q012", "query": "python data structures lists"}
+{"query_id": "q013", "query": "python functions decorators"}
+{"query_id": "q014", "query": "sorting algorithms quicksort"}
+{"query_id": "q015", "query": "graph algorithms BFS DFS"}
+{"query_id": "q016", "query": "dynamic programming"}
+{"query_id": "q017", "query": "data preprocessing machine learning"}
+{"query_id": "q018", "query": "supervised learning classification"}
+{"query_id": "q019", "query": "unsupervised learning clustering"}
+{"query_id": "q020", "query": "HTML semantic web"}
+{"query_id": "q021", "query": "CSS flexbox grid"}
+{"query_id": "q022", "query": "JavaScript DOM events"}
+{"query_id": "q023", "query": "web security SQL injection XSS"}
+{"query_id": "q024", "query": "authentication password hashing"}
+{"query_id": "q025", "query": "encryption TLS SSL"}

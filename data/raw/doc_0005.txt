@@ -1,0 +1,5 @@
+Title: Vector Embeddings in Search
+Source: Modern Search Techniques
+Date: 2025-12-18T06:52:36.132174
+
+Vector embeddings represent text as dense numerical vectors in a high-dimensional space, where semantically similar text has similar vector representations. This enables semantic search capabilities that go beyond keyword matching. Embeddings are typically generated using neural networks trained on large text corpora. Popular embedding models include Word2Vec, GloVe, and transformer-based models like BERT.

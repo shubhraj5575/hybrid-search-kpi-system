@@ -1,0 +1,5 @@
+Title: Security - Part 2 Variant 19
+Source: security_collection
+Date: 2026-01-01T06:52:36.132174
+
+Authentication verifies user identity. Passwords should be hashed using strong algorithms like bcrypt or Argon2. Multi-factor authentication adds an extra security layer. OAuth 2.0 enables secure third-party authorization. JSON Web Tokens (JWT) provide stateless authentication for APIs. Session management requires careful security considerations. Learn security through hands-on examples and industry-proven techniques. Understanding these concepts is essential for building robust and scalable systems.
